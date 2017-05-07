@@ -1,0 +1,3 @@
+Options +FollowSymLinks
+RewriteEngine On
+RewriteRule ^stire_([^_]*)_([^_]*)\.html$ news.php?id=$1&permalink=$2 [L]

@@ -1,0 +1,3 @@
+Use this URL to reset the Editor to your settings:
+
+http://www.highslide.com/editor/?config=%7B%22enableKeyListener%22%3A+false,+%22useCaption%22%3A+false,+%22showCredits%22%3A+false%7D
